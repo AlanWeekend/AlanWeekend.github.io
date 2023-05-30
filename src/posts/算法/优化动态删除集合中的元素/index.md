@@ -1,7 +1,7 @@
 ---
 title: 优化动态删除集合中的元素
 date: 2022-01-13 17:04:47
-categorie:
+category:
 - 算法
 ---
 

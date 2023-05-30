@@ -1,7 +1,7 @@
 ---
 title: BDFramework适配Windows
 date: 2022-08-16 22:17:20
-categorie:
+category:
  - Unity
 tag:
  - BDFramework

@@ -1,7 +1,7 @@
 ---
 title: UnityWebgl转微信小游戏屏幕适配
 date: 2022-07-19 08:47:57
-categorie:
+category:
  - Unity
 tag:
  - Unity微信小游戏

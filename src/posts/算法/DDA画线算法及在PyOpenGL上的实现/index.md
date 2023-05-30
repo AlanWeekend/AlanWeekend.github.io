@@ -1,7 +1,7 @@
 ---
 title: DDA画线算法及在PyOpenGL上的实现
 date: 2022-01-10 10:48:12
-categorie:
+category:
 - 算法
 ---
 ## DDA画线算法

@@ -1,7 +1,7 @@
 ---
 title: Unity转微信小游戏与JS交互
 date: 2022-07-25 09:37:50
-categorie:
+category:
  - Unity
 tag:
  - Unity微信小游戏
