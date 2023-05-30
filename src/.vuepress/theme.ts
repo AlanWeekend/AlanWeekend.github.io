@@ -66,7 +66,7 @@ export default hopeTheme({
       // sidebar
       sidebar: zhSidebar,
 
-      footer: "默认页脚",
+      footer: "做一个无聊的人，做一些有趣的事，劈柴🎄、喂马🐎、周游世界🌍",
 
       displayFooter: true,
 
@@ -95,6 +95,10 @@ export default hopeTheme({
     comment: {
       // @ts-expect-error: You should generate and use your own comment service
       provider: "Giscus",
+      repo: "AlanWeekend/alanweekend.github.io",
+      repoId: "R_kgDOJpHbHg",
+      category: "Announcements",
+      categoryId:"DIC_kwDOJpHbHs4CW1K6"
     },
 
     // all features are enabled for demo, only preserve features you need here
@@ -138,6 +142,12 @@ export default hopeTheme({
       tabs: true,
       vPre: true,
       vuePlayground: true,
+    },
+
+    // 版权
+    copyright: {
+      author: "Weekend",
+      license: "MIT"
     },
 
     // uncomment these if you want a PWA
