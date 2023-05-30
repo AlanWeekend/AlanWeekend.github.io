@@ -19,7 +19,7 @@ export default defineUserConfig({
     searchProPlugin({
       // 索引全部内容
       indexContent: true,
-      为分类和标签添加索引
+      // 为分类和标签添加索引
       customFields: [
         {
           getter: (page) => page.frontmatter.category,
