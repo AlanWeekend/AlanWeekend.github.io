@@ -18,10 +18,10 @@ projects:
   #   desc: 链接详细描述
   #   link: https://链接地址
 
-  # - icon: book
-  #   name: 书籍名称
-  #   desc: 书籍详细描述
-  #   link: https://你的书籍链接
+  - icon: book
+    name: GO入门指南
+    desc: Github 上《The Way to Go》中文译本的镜像，优化了排版
+    link: https://learnku.com/docs/the-way-to-go
 
   # - icon: article
   #   name: 文章名称
