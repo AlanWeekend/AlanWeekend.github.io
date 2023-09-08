@@ -22,6 +22,11 @@ projects:
     name: GO入门指南
     desc: Github 上《The Way to Go》中文译本的镜像，优化了排版
     link: https://learnku.com/docs/the-way-to-go
+    
+  - icon: book
+    name: Rust圣经
+    desc: Rust入门必看
+    link: https://course.rs/about-book.html
 
   # - icon: article
   #   name: 文章名称

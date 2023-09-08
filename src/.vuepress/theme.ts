@@ -91,7 +91,9 @@ export default hopeTheme({
   },
 
   plugins: {
-    blog: true,
+    blog: {
+      excerptLength:0
+    },
 
     comment: {
       // @ts-expect-error: You should generate and use your own comment service
